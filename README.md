@@ -18,6 +18,9 @@ Welcome to my GitHub! I'm passionate about technology, creativity, and building 
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-FFC7C7?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-FFCCE5?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-FFBFAE?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
@@ -26,6 +29,9 @@ Welcome to my GitHub! I'm passionate about technology, creativity, and building 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-FFF6BF?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/C-E0BBE4?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   </a>
 </div>
 
