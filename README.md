@@ -32,18 +32,21 @@ Welcome to my GitHub! I'm passionate about technology, creativity, and building 
 ---
 
 ## 🌸 Skills
-
-<div align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Python%20Coding-FFC7C7?style=for-the-badge&logo=python&logoColor=white" alt="Python Coding"/>
-  </a>
-  <a href="https://dribbble.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Web%20Design-FFBFAE?style=for-the-badge&logo=dribbble&logoColor=white" alt="Web Design"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-UI%2FUX%20Design-FFF6BF?style=for-the-badge&logo=figma&logoColor=black" alt="UI/UX Design"/>
-  </a>
-</div>
+🐍 Python Coding
+<img src="https://img.icons8.com/pastel-glyph/48/ffb6c1/laptop--v2.png" width="36" alt="Python Coding" title="Python Coding"/>
+<span style="background-color:#FFC7C7; border-radius:12px; padding:8px 16px; margin:4px; display:inline-block;">
+</span>
+<br>
+🎨 Web Design
+<img src="https://img.icons8.com/pastel-glyph/48/ffbfae/web-design.png" width="36" alt="Web Design" title="Web Design"/>
+<span style="background-color:#FFBFAE; border-radius:12px; padding:8px 16px; margin:4px; display:inline-block;">
+</span>
+<br>
+✏️ UI/UX Design
+<img src="https://img.icons8.com/pastel-glyph/48/d2f6c5/pencil--v2.png" width="36" alt="Sketching" title="Sketching"/>
+<span style="background-color:#D2F6C5; border-radius:12px; padding:8px 16px; margin:4px; display:inline-block;">
+</span>
+<br>
 
 ---
 
