@@ -74,7 +74,7 @@ A simple, intuitive web application to help you organize tasks and boost product
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/sanskruti-sawant-0b6725329)
+- [LinkedIn](https://www.linkedin.com/in/sanskruti-sawant-0b6725329)
 
 ---
 
