@@ -38,17 +38,17 @@ Welcome to my GitHub! I'm passionate about technology, creativity, and building 
 ---
 
 ## 🌸 Skills
-🐍 Python Coding
+Python Coding
 <img src="https://img.icons8.com/pastel-glyph/48/ffb6c1/laptop--v2.png" width="36" alt="Python Coding" title="Python Coding"/>
 <span style="background-color:#FFC7C7; border-radius:12px; padding:8px 16px; margin:4px; display:inline-block;">
 </span>
 <br>
-🎨 Web Design
+Web Design
 <img src="https://img.icons8.com/pastel-glyph/48/ffbfae/web-design.png" width="36" alt="Web Design" title="Web Design"/>
 <span style="background-color:#FFBFAE; border-radius:12px; padding:8px 16px; margin:4px; display:inline-block;">
 </span>
 <br>
-✏️ UI/UX Design
+UI/UX Design
 <img src="https://img.icons8.com/pastel-glyph/48/d2f6c5/pencil--v2.png" width="36" alt="Sketching" title="Sketching"/>
 <span style="background-color:#D2F6C5; border-radius:12px; padding:8px 16px; margin:4px; display:inline-block;">
 </span>
