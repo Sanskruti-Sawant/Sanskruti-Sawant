@@ -75,11 +75,7 @@ UI/UX Design
 ---
 
 ## 🚀 Favorite Project
-### To-Do Web App
-A simple, intuitive web application to help you organize tasks and boost productivity.  
-*Want to see how I blend clean design with functional code? Check it out!*
-- [To-Do Web app](https://github.com/Sanskruti-Sawant/OIBSIP_WebDevelopment_3)
-  
+
 ---
 
 ## 📫 Connect with Me
