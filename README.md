@@ -91,10 +91,6 @@ UI/UX Design
 
 ---
 
-## 🚀 Favorite Project
-
----
-
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sanskruti-sawant-0b6725329)
 
