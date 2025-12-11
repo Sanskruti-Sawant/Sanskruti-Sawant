@@ -1,6 +1,7 @@
 # Hi there, I'm Sanskruti Sawant!🌷
 
-![ᑉ³](https://github.com/user-attachments/assets/73a83e84-ae58-40c4-a798-8b268a34c6f3)
+![a2ec4ae40575c44e2b5c72631378840b](https://github.com/user-attachments/assets/39b353da-3713-4428-9ff3-d58ff43e8985)
+
 
 
 🎓 **Computer Engineering Undergrad**  
@@ -38,15 +39,20 @@ Welcome to my GitHub! I'm passionate about technology, creativity, and building 
 ---
 
 ## 🚀 Favorite Project
+
+## AGRONOVA - Crop & fertilizer prediction web-app
 - Developed an end-to-end AI-driven crop and fertilizer recommendation system using FastAPI, machine learning models, real-time weather integration, and a fully responsive JavaScript frontend, packaged and deployed via Docker
 
-#Tech Stack :
+**Tech Stack :**
 - Backend: FastAPI · Python · Scikit-learn · OpenCV · NumPy · Pandas
 - ML Models: Random Forest (Crop & Fertilizer) · KNN (Soil Classification) · Calibrated Classifiers · Data Preprocessing Pipelines
 - Frontend: HTML5 · CSS3 · JavaScript (Vanilla) · Fetch API · Responsive UI
 - APIs & Integrations: OpenWeather API · Reverse Geocoding · Real-time Location Services
 - DevOps & Deployment: Docker · Docker Compose · Linux Environment · Environment Variable Management
 - Other Tools: JSON-based API communication
+- <img width="1917" height="1069" alt="Screenshot 2025-12-11 164204" src="https://github.com/user-attachments/assets/be8981bd-de5e-4bff-81c8-12342ccf83f4" />
+- <img width="1919" height="1199" alt="file_2025-11-06_20 06 42 1" src="https://github.com/user-attachments/assets/823c6b90-e472-41b9-970d-2c316af3f949" />
+
 
 ## 🌸 Skills
 Python Coding
