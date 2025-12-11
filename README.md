@@ -37,6 +37,21 @@ Welcome to my GitHub! I'm passionate about technology, creativity, and building 
 
 ---
 
+## 🚀 Favorite Project
+- Developed an end-to-end AI-driven crop and fertilizer recommendation system using FastAPI, machine learning models, real-time weather integration, and a fully responsive JavaScript frontend, packaged and deployed via Docker
+- Tech Stack :
+-- Backend: FastAPI · Python · Scikit-learn · OpenCV · NumPy · Pandas
+
+ML Models: Random Forest (Crop & Fertilizer) · KNN (Soil Classification) · Calibrated Classifiers · Data Preprocessing Pipelines
+
+Frontend: HTML5 · CSS3 · JavaScript (Vanilla) · Fetch API · Responsive UI
+
+APIs & Integrations: OpenWeather API · Reverse Geocoding · Real-time Location Services
+
+DevOps & Deployment: Docker · Docker Compose · Linux Environment · Environment Variable Management
+
+Other Tools: JSON-based API communication
+
 ## 🌸 Skills
 Python Coding
 <img src="https://img.icons8.com/pastel-glyph/48/ffb6c1/laptop--v2.png" width="36" alt="Python Coding" title="Python Coding"/>
