@@ -9,9 +9,8 @@ Welcome to my GitHub! I'm passionate about technology, creativity, and building 
 
 ## 🌸 About Me
 - 💡 Currently pursuing a degree in Computer Engineering
-- 🐍 Skilled in **Python**
+- 🐍 Python,Java,HTML CSS
 - 🌐 Love building and designing for the **Web**
-- 🎨 Enjoy **designing websites** and **sketching** in my free time
 ---
 ## 🚀 Languages & Tools
 
